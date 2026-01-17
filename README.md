@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @paulatanu1
-- 👀 I’m interested in Technology
 - 🌱 I’m currently learning and developing
 - 📫 reach me at atanupaul76@gmail.com or ph:- +918918882380
 
