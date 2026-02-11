@@ -17,7 +17,6 @@ Hello! I’m Atanu — a passionate developer building web and backend applicati
 
 🌱 I’m currently learning:
 - Advanced TypeScript
-- Next.js and server-side architecture
 - Cloud deployment basics
 
 💬 Ask me about:
@@ -34,10 +33,10 @@ Hello! I’m Atanu — a passionate developer building web and backend applicati
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-JavaScript • TypeScript • HTML5 • CSS3 • SCSS • SQL
+JavaScript • TypeScript • HTML5 • CSS3 • SCSS 
 
 ### 🧰 Frameworks & Libraries
-Angular • Node.js • Express.js • React (basic)
+Angular • React (basic)
 
 ### ⚙ Tools & Platforms
 Git • GitHub • VS Code • Postman • npm • Netlify • Heroku
